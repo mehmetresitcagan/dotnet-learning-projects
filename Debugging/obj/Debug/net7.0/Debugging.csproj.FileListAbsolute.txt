@@ -1,0 +1,15 @@
+/Users/cagan/Desktop/dotnet/Debugging/bin/Debug/net7.0/Debugging
+/Users/cagan/Desktop/dotnet/Debugging/bin/Debug/net7.0/Debugging.deps.json
+/Users/cagan/Desktop/dotnet/Debugging/bin/Debug/net7.0/Debugging.runtimeconfig.json
+/Users/cagan/Desktop/dotnet/Debugging/bin/Debug/net7.0/Debugging.dll
+/Users/cagan/Desktop/dotnet/Debugging/bin/Debug/net7.0/Debugging.pdb
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.csproj.AssemblyReference.cache
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfoInputs.cache
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfo.cs
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.dll
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/refint/Debugging.dll
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.pdb
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/Debugging.genruntimeconfig.cache
+/Users/cagan/Desktop/dotnet/Debugging/obj/Debug/net7.0/ref/Debugging.dll

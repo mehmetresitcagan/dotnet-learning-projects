@@ -1,0 +1,15 @@
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/bin/Debug/net7.0/dotnet-deneme
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/bin/Debug/net7.0/dotnet-deneme.deps.json
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/bin/Debug/net7.0/dotnet-deneme.runtimeconfig.json
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/bin/Debug/net7.0/dotnet-deneme.dll
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/bin/Debug/net7.0/dotnet-deneme.pdb
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.csproj.AssemblyReference.cache
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.AssemblyInfoInputs.cache
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.AssemblyInfo.cs
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.csproj.CoreCompileInputs.cache
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.dll
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/refint/dotnet-deneme.dll
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.pdb
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/dotnet-deneme.genruntimeconfig.cache
+/Users/cagan/Desktop/dotnet/dotnet-deneme/dotnet-deneme/obj/Debug/net7.0/ref/dotnet-deneme.dll

@@ -1,0 +1,15 @@
+/Users/cagan/Desktop/dotnet/MyApp/bin/Debug/net7.0/MyApp
+/Users/cagan/Desktop/dotnet/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/cagan/Desktop/dotnet/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/cagan/Desktop/dotnet/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/cagan/Desktop/dotnet/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/cagan/Desktop/dotnet/MyApp/obj/Debug/net7.0/ref/MyApp.dll
